@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006907372325",
+    "project_id": "on-click-property-edd15",
+    "storage_bucket": "on-click-property-edd15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006907372325:android:c7eaa7a632adb6a2eae0cc",
+        "android_client_info": {
+          "package_name": "org.qisystems.onclickproperty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006907372325-7vcvcb1hi6oef8orr8nb2s8un7r76ai6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.qisystems.onclickproperty",
+            "certificate_hash": "47b60b8b35370794f2bafc3a062d316141d9a62b"
+          }
+        },
+        {
+          "client_id": "1006907372325-9ceb4misnhdfh6g6ceh2kkuqjcs9jfaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCUrZ8bvYw1X4EenIYjXCf4FMireQrw_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006907372325-9ceb4misnhdfh6g6ceh2kkuqjcs9jfaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

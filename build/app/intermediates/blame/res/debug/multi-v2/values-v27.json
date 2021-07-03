@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\HP\\AndroidStudioProjects\\BackUp_Onclicliks\\OnclickProperty_8_may_21\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v27\\values-v27.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-2\\files-2.1\\1d9fa5c157ae9331877842b9902c37c4\\jetified-upisdk-1.0.2\\res\\values-v27\\values-v27.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "612"
+                    }
+                }
+            ]
+        }
+    ]
+}
